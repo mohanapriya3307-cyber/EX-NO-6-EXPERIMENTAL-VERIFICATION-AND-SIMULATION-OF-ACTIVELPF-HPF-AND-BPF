@@ -239,6 +239,9 @@ PROCEDURE:BAND PASS FILTER
 
 ![WhatsApp Image 2025-12-04 at 21 12 27_2f1f8b03](https://github.com/user-attachments/assets/e1fb98a2-cbc9-4f31-b1c3-5d7ce0f275f9)
 
+![WhatsApp Image 2025-12-05 at 16 29 00_4b42f728](https://github.com/user-attachments/assets/47810e64-69cb-4c2d-81a4-ac40f8262134)
+
+
 
 
 ---
