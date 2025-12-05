@@ -160,6 +160,9 @@ PROCEDURE - ( HPF):
 
 ![WhatsApp Image 2025-12-04 at 21 12 24_9d467019](https://github.com/user-attachments/assets/c62108ff-c5f6-4bf1-bca9-063d8c2ca54f)
 
+![WhatsApp Image 2025-12-05 at 16 29 59_b9b361a9](https://github.com/user-attachments/assets/3a158df8-d925-4fc4-86e2-142e1c2137ba)
+
+
 ---
 
  ## 6C Band Pass Filter
@@ -191,8 +194,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## MODEL GRAPH
 
-<img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490" />
-
+<img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490")>
 
 ---
 
@@ -233,6 +235,8 @@ PROCEDURE:BAND PASS FILTER
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 ![WhatsApp Image 2025-12-04 at 21 12 27_2f1f8b03](https://github.com/user-attachments/assets/e1fb98a2-cbc9-4f31-b1c3-5d7ce0f275f9)
+
+
 
 ---
 ##RESULT:
