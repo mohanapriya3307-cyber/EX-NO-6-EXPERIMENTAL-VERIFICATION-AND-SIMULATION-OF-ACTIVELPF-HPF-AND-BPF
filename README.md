@@ -87,6 +87,9 @@ PROCEDURE - (LPF):
 
 ![WhatsApp Image 2025-12-04 at 21 07 26_4e9733fa](https://github.com/user-attachments/assets/54e6414a-4647-4223-bdd5-31831172018c)
 
+![WhatsApp Image 2025-12-05 at 16 29 59_b9b361a9](https://github.com/user-attachments/assets/778394f4-fb20-4cc8-859c-b1d2700cb646)
+
+
 ---
 
  ## 6 B HIGH PASS FILTER
@@ -160,7 +163,7 @@ PROCEDURE - ( HPF):
 
 ![WhatsApp Image 2025-12-04 at 21 12 24_9d467019](https://github.com/user-attachments/assets/c62108ff-c5f6-4bf1-bca9-063d8c2ca54f)
 
-![WhatsApp Image 2025-12-05 at 16 29 59_b9b361a9](https://github.com/user-attachments/assets/3a158df8-d925-4fc4-86e2-142e1c2137ba)
+
 
 
 ---
